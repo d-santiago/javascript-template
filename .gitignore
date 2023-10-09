@@ -1,2 +1,5 @@
 # Node Dependencies
 node_modules
+
+# MacOS Custom Attributes
+.DS_Store
