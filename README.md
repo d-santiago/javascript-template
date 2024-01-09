@@ -20,19 +20,15 @@ Each time that code is pushed to this repository, GitHub Actions builds the proj
 ## License
 MIT License
 
-## Measures of Success
-- [x] A programming language is selected (JavaScript)
-- [x] A toolchain / runtime environment is selected (Node.js)
-- [x] A testing framework is selected (Jest)
-- [x] A continuous integration solution is selected (GitHub Actions)
-- [x] A static analysis solution is selected (ESLint)
-- [x] A code formatting solution is selected (ESLint)
-- [x] A package manager solution is selected (npm)
-- [x] A template git repo is created
-- [x] Static analysis and code formatting are pre-configured in the repo as restrictively as possible
-- [x] There is a “Hello World” program in the repo (hello.js)
-- [x] There is a test in the repo that asserts that 2 + 2 == 4 (sum.test.js)
-- [x] There is a CI pipeline that runs the test (GitHub Actions - node.js.yml)
-- [x] A README.md file describes how to use repo
-- [x] The repo should have an appropriate .gitignore
-- [x] The repo should have an appropriate license (MIT License)
+## Included
+- [x] Programming Language: JavaScript
+- [x] Toolchain / Runtime environment: Node.js
+- [x] Package Manager: NPM
+- [x] Testing Framework: Jest
+- [x] Continuous Integration: GitHub Actions
+- [x] Static Analysis: ESLint
+- [x] Code Formatting: ESLint
+- [x] “Hello World” Program: hello.js
+- [x] Test that asserts that 2 + 2 == 4: sum.test.js
+- [x] CI pipeline for Tests: GitHub Actions - node.js.yml
+- [x] License: MIT License
