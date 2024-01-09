@@ -1,4 +1,4 @@
-# JavaScript Repository
+# JavaScript Template Repository (2023)
 
 This is a basic template for starting a new JavaScript project. It includes automated testing, using Jest, automated linting, using ESLint, and a continuous integration pipeline using GitHub Actions.
 
